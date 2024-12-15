@@ -36,3 +36,4 @@ function refreshMe(){
   }
   dadu1.src = list_dadu[angkaDadu1];
   dadu2.src = list_dadu[angkaDadu2];
+}
